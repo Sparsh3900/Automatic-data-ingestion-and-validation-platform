@@ -1,0 +1,4 @@
+transaction_id,customer_id,amount,date
+1,101,,2024-01-01
+2,,700,2024-01-02
+3,103,900,
